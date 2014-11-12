@@ -1,4 +1,4 @@
-Development Branch in Digital Solutions
+﻿Development Branch in Digital Solutions
 ====
 
 # デジタル・ソリューションズ Web制作事業部
@@ -15,3 +15,5 @@ Development Branch in Digital Solutions
 ## ファイル構成
 
 ## リリース方法
+
+## 追記
