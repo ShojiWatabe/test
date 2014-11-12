@@ -9,7 +9,7 @@ Development Branch in Digital Solutions
 ## メンバー
 * 渡部
 * 宇佐美
-* カリスマヘルパー
+* シークレット
 
 
 ## ファイル構成
